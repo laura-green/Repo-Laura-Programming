@@ -1,0 +1,6 @@
+2016.09.26 - Nice work laura! Most people made the same mistakes on HW2, so
+go back to the corrections to see what I was looking for. Also, if you do not
+have time to do a homework you can always submit a blank .R file, which counts
+for completion. I encourage you to go back and look at HW3 though,as functions
+are important and sometimes difficult! Overall your participation in class
+is great, so keep it up!
