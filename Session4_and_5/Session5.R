@@ -39,3 +39,20 @@ document()
 
 ?print_hello_world
 
+require(devtools)
+
+setwd(paste(dir, name, sep=""))
+devtools::use_testthat()
+
+setwd(paste(dir, name, sep=""))
+devtools::test()
+
+getwd()
+dir <- '~/GitHub/RepoLauraProgramming/Session4_and_5'
+name <- 'PracticePackage'
+setwd(paste(dir, name, sep=""))
+devtools::use_testthat()
+
+getwd()
+setwd(dir = '~/GitHub/RepoLauraProgramming/Session4_and_5/PracticePackage')
+devtools::test()
