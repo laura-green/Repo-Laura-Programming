@@ -1,0 +1,50 @@
+\nonstopmode{}
+\documentclass[a4paper]{book}
+\usepackage[times,inconsolata,hyper]{Rd}
+\usepackage{makeidx}
+\usepackage[utf8]{inputenc} % @SET ENCODING@
+% \usepackage{graphicx} % @USE GRAPHICX@
+\makeindex{}
+\begin{document}
+\chapter*{}
+\begin{center}
+{\textbf{\huge Package `PracticePackage'}}
+\par\bigskip{\large \today}
+\end{center}
+\begin{description}
+\raggedright{}
+\inputencoding{utf8}
+\item[Title]\AsIs{A Hello World Package}
+\item[Version]\AsIs{0.0.0.9000}
+\item[Description]\AsIs{All the package does is print Hello World}
+\item[Depends]\AsIs{R (>= 3.3.1)}
+\item[License]\AsIs{MIT + file LICENSE}
+\item[Encoding]\AsIs{UTF-8}
+\item[LazyData]\AsIs{true}
+\item[RoxygenNote]\AsIs{5.0.1}
+\item[Suggests]\AsIs{testthat}
+\item[NeedsCompilation]\AsIs{no}
+\item[Author]\AsIs{Laura Green [aut, cre]}
+\item[Maintainer]\AsIs{Laura Green }\email{laura.green@sciencespo.fr}\AsIs{}
+\end{description}
+\Rdcontents{\R{} topics documented:}
+\inputencoding{utf8}
+\HeaderA{print\_hello\_world}{A Hello World Function}{print.Rul.hello.Rul.world}
+%
+\begin{Description}\relax
+This function outputs 'Hello World.' That is all.
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+print_hello_world()
+\end{verbatim}
+\end{Usage}
+%
+\begin{Examples}
+\begin{ExampleCode}
+print_hello_world()
+\end{ExampleCode}
+\end{Examples}
+\printindex{}
+\end{document}

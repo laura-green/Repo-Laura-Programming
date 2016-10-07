@@ -1,3 +1,8 @@
+# Origin: Code for week 5 of programming class.
+# Author: Laura Green
+# Title: Session5.R
+# Last modified: 2016.10.05
+
 install.packages("devtools",
                  repos='http://cran.us.r-project.org')
 install.packages("testthat",
