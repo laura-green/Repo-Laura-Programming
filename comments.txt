@@ -4,3 +4,6 @@ have time to do a homework you can always submit a blank .R file, which counts
 for completion. I encourage you to go back and look at HW3 though,as functions
 are important and sometimes difficult! Overall your participation in class
 is great, so keep it up!
+
+2016.10.25 - HW5 - Nice work laura, hope the tests went well. Have a nice
+             break!
