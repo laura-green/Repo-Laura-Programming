@@ -33,7 +33,6 @@ summary(data_911)
 # we can't learn much from this.
 # I'll try to get only stats I care about.
 
-
 #install.packages('ggplot2', repos="http://cran.us.r-project.org")
 library(ggplot2)
 library(reshape2) 
@@ -169,8 +168,8 @@ counttM
 
 plot(x = counttM$Month, y = counttM$Calls, type="o")
 
-# Not really sure if this is a correlation (or even "more of a correlation than previous question"...) 
-# But showing the number of calls per month. 
+# Not sure this really shows a correlation (or even more of a correlation than previous plot...) 
+# But it's showing the number of calls per month. 
 # It's not very reliable/useful, since the first "month" is only 2/3 of December 2015
 # and October 2016 is also missing a few days. 
 # The only thing we can tell from this graph is that there were more calls than usual
