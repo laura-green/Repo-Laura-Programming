@@ -7,3 +7,9 @@ is great, so keep it up!
 
 2016.10.25 - HW5 - Nice work laura, hope the tests went well. Have a nice
              break!
+
+2016.11.05 - HW7 and HW8 - Great work on HW7, I'm glad you found the assignment
+             so interesting. It looks like you got a chance to look at some
+             tools online and learned the lesson of commenting your code as
+             you go, as when you come back several days later things were
+             unclear!
