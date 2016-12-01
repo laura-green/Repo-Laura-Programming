@@ -13,3 +13,7 @@ is great, so keep it up!
              tools online and learned the lesson of commenting your code as
              you go, as when you come back several days later things were
              unclear!
+
+2016.11.28 - HW9 - Your function is not working because you pass an integer,
+             but try to index the first and second entries. Try passing a
+             vector instead.
